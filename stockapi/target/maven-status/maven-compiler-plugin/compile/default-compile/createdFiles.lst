@@ -1,0 +1,13 @@
+repositories/EntityRepository.class
+controller/AbstractController.class
+repositories/ProductRepository.class
+model/Product.class
+services/ShelfServices.class
+repositories/ShelfRepository.class
+model/Shelf.class
+App.class
+services/AbstractServices.class
+controller/ProductController.class
+controller/ShelfController.class
+services/ProductServices.class
+model/Entity.class
